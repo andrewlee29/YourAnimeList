@@ -9,3 +9,4 @@ In the user page: it will shows the user image, username and their hisory review
 # Implementation:
 Using MySQL database, we stored the user information in the database. The method that we store and take the information to the database is using php to send data or read data. Originally, we also wanted to put the anime information into our database but we are unable to make it because of lack of experience and limited of time.
 ![Image of home](https://github.com/andrewlee29/YourAnimeList/blob/master/Sample/anime.png)
+# Sample:
